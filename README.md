@@ -3,16 +3,15 @@
 <tr>
 <td width="65%" valign="top">
 
-# 👋 Hey, I'm Himanshu
+# 👋 Hey,  I'm Himanshu
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=007ACC&width=450&height=50&lines=Mobile-First+Engineer;Building+Scalable+Solutions;Android+%7C+Flutter+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=007ACC&width=450&height=50&lines=Mobile-Engineer;Building+Scalable+Apps;Android+%7C+Flutter+Engineer" alt="Typing SVG" />
 
-**Mobile-first engineer passionate about building apps that scale to millions of users.**  
+**Mobile engineer passionate about building apps that scales.**  
 Specializing in **Android (Kotlin)** and **Flutter** for cross-platform solutions.
 
 Currently diving deep into **Kotlin Multiplatform** 🦄
 
-[![Kotlin](https://img.shields.io/badge/kotlin-7F52FF.svg?style=flat&logo=kotlin&logoColor=white)](https://kotlinlang.org)
 [![KMP](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=flat&logo=kotlin&logoColor=white)](https://kotlinlang.org/docs/multiplatform.html)
 
 </td>
