@@ -8,7 +8,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=007ACC&width=450&height=50&lines=Mobile-Engineer;Building+Scalable+Apps;Android+%7C+Flutter+Engineer" alt="Typing SVG" />
 
 **Mobile engineer passionate about building apps that scales.**  
-Specializing in **Android (Kotlin)** and **Flutter** for cross-platform solutions.
+Specializing in **Android (Kotlin)** and **Flutter** for cross-platform apps.
 
 Currently diving deep into **Kotlin Multiplatform** 🦄
 
